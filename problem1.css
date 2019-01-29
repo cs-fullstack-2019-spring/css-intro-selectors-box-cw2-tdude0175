@@ -1,0 +1,37 @@
+/*Create a new HTML file called problem1_cw.html, and copy the code below into the <body> of your HTML file.*/
+
+/*<h1>HTML Can be more Fun than Python</h1>*/
+/*<h2>But is html more Fun than Java?</h2>*/
+/*<p>Some thinks Switch-Cases are better than If statements.</p>*/
+/*<p>Most think For Loops are better than While Loops.</p>*/
+/*Create an external CSS file called problem1.css and link it to your HTML file*/
+/*Add CSS selector to make the h1 tags red, padded on all sides by 20px, and display 25% from the left side of the web page*/
+/*Add CSS selector to make the h2 tags blue and have a 1px border*/
+/*Add a CSS selector and use it to make all instances of the word 'better' green with a font-weight of bold*/
+
+
+h1
+{
+    color: red;
+    padding: 20px;
+    margin-left: 25%;
+
+}
+/*color to match color call border [number]px for adding pixels to the box border*/
+
+h2
+{
+    color: blue;
+    border: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+}
+/*margin left pushes it 25% away from the left margin*/
+
+.better
+{
+    color: green;
+    font-weight: bold;
+}
