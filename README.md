@@ -33,3 +33,6 @@ And a setting that will keep the text horizontally centered on the page as the s
 ### Challenge:
 
 Start with the included HTML file ```problem3.html```. The starter HTML has an HTML table in it which we will talk more about later. See if you can create a CSS file called ```problem3.css``` that will style the page to produce a tic-tac-toe web page like the one represented in ```problem3.png```
+
+* Add additional styles to better format the title to use borders and a colored background
+
