@@ -17,7 +17,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 ### Exercise 2:
 
-Start with the included HTML file ```problem2.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
+Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
 * Give the p tags a gray background and yellow font color. Make the class "secondParagraph" have a background color of blue.
 * Create selectors to set the background of the first, third, and fourth classes to pink.
@@ -32,7 +32,7 @@ And a setting that will keep the text horizontally centered on the page as the s
 
 ### Challenge:
 
-Start with the included HTML file ```problem3.html```. The starter HTML has an HTML table in it which we will talk more about later. See if you can create a CSS file called ```problem3.css``` that will style the page to produce a tic-tac-toe web page like the one represented in ```problem3.png```
+Start with the included HTML file ```problem3_cw.html```. The starter HTML has an HTML table in it which we will talk more about later. See if you can create a CSS file called ```problem3_cw.css``` that will style the page to produce a tic-tac-toe web page like the one represented in ```problem3.png```
 
 * Add additional styles to better format the title to use borders and a colored background
 
