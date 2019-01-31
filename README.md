@@ -1,3 +1,6 @@
+### 2 POINTS
+### KEY: Awesome work!
+
 # CSS Intro to Selectors and Box Model
 
 ### Exercise 1:
